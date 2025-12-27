@@ -1,5 +1,5 @@
 {
-    "name": "steam-image-utils",
+    "name": "@iaxx/steam-image-utils",
     "version": "1.0.0",
     "description": "A lightweight utility to generate Steam CDN image URLs.",
     "main": "dist/index.js",
