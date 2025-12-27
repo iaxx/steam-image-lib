@@ -1,0 +1,22 @@
+{
+    "name": "steam-image-utils",
+    "version": "1.0.0",
+    "description": "A lightweight utility to generate Steam CDN image URLs.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "test": "node dist/test.js"
+    },
+    "keywords": [
+        "steam",
+        "images",
+        "cdn",
+        "url"
+    ],
+    "author": "",
+    "license": "GPL-3.0",
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
